@@ -25,7 +25,8 @@ int main()
           ("Hello Holberton\n")
           ("Hello Holberton\n")
           ("Hello Holberton\n")
-          ("Hello Holberton\n");
-  }       ("Hello Holberton\n")
+          ("Hello Holberton\n")
+          ("Hello Holberton\n")
+  }       ("Hello Holberton\n");
   return 0;
 }
