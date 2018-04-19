@@ -25,7 +25,7 @@ int main()
             "Hello Holberton"
             "Hello Holberton"
             "Hello Holberton"
-  )
+  );
   }       
   return 0;
   }
